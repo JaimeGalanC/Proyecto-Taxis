@@ -1,5 +1,0 @@
-# ignorar archivos csv
-*.csv
-
-# ignorar carpetas de jupyter
-.ipynb_checkpoints
